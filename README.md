@@ -22,4 +22,4 @@ For email:
 
 For web form:
 - html = <form> .
-- - take the "hello world" text from simplest example script in hi.rb (from sinatrarb.com) and sub in html instead of Hello World text 
+- take the "hello world" text from simplest example script in hi.rb (from sinatrarb.com) and sub in html instead of Hello World text 
