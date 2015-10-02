@@ -11,10 +11,10 @@ Need html/css to createa a button & the button simply sends me an email.
 could look at: 
 - fritter/python
 - sinatra/ruby  <-- this is the direction I'm going
+  - sinatrarb.com for quick up & running ruby 
 
 For login:
 - csquared/sinatra-google-auth 
-- sinatrarb.com for quick up & running ruby 
 - console google developer to register app & get key/secret
 - also - nice to do an OKTA integration
 
