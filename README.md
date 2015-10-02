@@ -22,5 +22,6 @@ For email:
 - mail script search for 'ruby smtp'  for smtp server, use google server
 
 For web form:
+- start with dora & instead of hello world, have the button
 - html = "\<form\>" .
 - take the "hello world" text from simplest example script in hi.rb (from sinatrarb.com) and sub in html instead of Hello World text 
