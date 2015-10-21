@@ -20,6 +20,7 @@ For login:
 
 For email:
 - mail script search for 'ruby smtp'  for smtp server, use google server
+- https://github.com/jbayer/mail-java
 
 For web form:
 - start with dora & instead of hello world, have the button
