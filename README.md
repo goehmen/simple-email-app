@@ -6,7 +6,7 @@ Just need to spin up a VM & call mailx
 
 Need an auth mechanism in front.
 
-Need html/css to createa a button & the button simply sends me an email.
+Need html/css to create a a button & the button simply sends me an email.
 
 could look at: 
 - fritter/python
