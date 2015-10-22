@@ -1,0 +1,8 @@
+---
+applications:
+- name: theline
+  memory: 512M
+  instances: 2
+  buildpack: ruby_buildpack
+  host: theline
+#  domain: cfapps.pez.pivotal.io
